@@ -7,6 +7,8 @@
 
 import UIKit
 
+xcodebuild -scheme TestJenkens -configuration Debug build test \
+  -destination 'platform=iOS Simulator,name=iPhone 8'
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
