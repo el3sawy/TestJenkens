@@ -4,7 +4,7 @@
 //
 //  Created by Ahmed Elesawy on 22/12/2021.
 //
-
+import Alamofire
 import UIKit
 
 class ViewController: UIViewController {
