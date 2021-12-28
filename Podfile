@@ -5,7 +5,7 @@ target 'TestJenkens' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
-  pod 'Alamofire', '~> 5.5'
+#  pod 'Alamofire', '~> 5.5'
 
   target 'TestJenkensTests' do
     inherit! :search_paths
