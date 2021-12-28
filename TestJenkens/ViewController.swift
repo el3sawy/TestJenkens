@@ -11,9 +11,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        AF.request(URL(string: "")!).response { _ in
-            
-        }
+//        AF.request(URL(string: "")!).response { _ in
+//            
+//        }
     }
 
 
