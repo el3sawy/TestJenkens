@@ -3,18 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
-	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>921F351527735FD8005940E2</key>
+		<key>TestJenkens.xcscheme_^#shared#^_</key>
 		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>921F35302773674F005940E2</key>
-		<dict>
-			<key>primary</key>
-			<true/>
+			<key>orderHint</key>
+			<integer>2</integer>
 		</dict>
 	</dict>
 </dict>
